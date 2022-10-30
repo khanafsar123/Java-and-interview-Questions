@@ -7,8 +7,7 @@ public class Task01Test {
         bmw.stop();
 
 
-        Toyota toyota=new Toyota();
-        toyota.start();
+
 
     }
 

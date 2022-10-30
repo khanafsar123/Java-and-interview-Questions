@@ -24,6 +24,3 @@ class BMW extends Task01{
 
 }
 
-class Toyota extends Task01{
-
-}
