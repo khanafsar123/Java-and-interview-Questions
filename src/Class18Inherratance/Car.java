@@ -18,17 +18,7 @@ public class Car {
 }
 // child classes are also called derived classas
 // new class BMW
-class BMW extends Car {
 
-}
-// New Class Tesla
-class Tesla extends Car {
-
-}
-
-class Honda extends Car {
-
-}
 
 
 

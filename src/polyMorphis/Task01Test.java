@@ -1,3 +1,4 @@
+/*
 package polyMorphis;
 
 public class Task01Test {
@@ -12,3 +13,4 @@ public class Task01Test {
     }
 
 }
+*/

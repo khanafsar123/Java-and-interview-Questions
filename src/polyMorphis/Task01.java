@@ -1,3 +1,4 @@
+/*
 package polyMorphis;
 
 public class Task01 {
@@ -24,3 +25,4 @@ class BMW extends Task01{
 
 }
 
+*/

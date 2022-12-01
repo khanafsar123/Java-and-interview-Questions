@@ -18,10 +18,11 @@ SYNTAX TECHNOLOGIES
 ```
 syntax technologies
       */
-        String str1= "syntax technologies";
-        String str2=  "SYNTAX TECHNOLOGIES";
-
-        System.out.println(str1.toUpperCase());
-        System.out.println(str2.toLowerCase(Locale.ROOT));
+        String str1 = "syntax technologies";
+        String str2 = "SYNTAX TECHNOLOGIES";
+        String st = str1.toUpperCase();
+        System.out.println(st);
+        String st2 = str2.toLowerCase();
+        System.out.println(st2);
 
     }}

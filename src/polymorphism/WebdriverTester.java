@@ -1,9 +1,11 @@
+/*
 package polymorphism;
 
 public class WebdriverTester {
     public static void main(String[] args) {
         // everytime creating new instance of the object
-        /*Safari safari=new Safari();
+        */
+/*Safari safari=new Safari();
         safari.startBrower();
         safari.openBrowser();
         safari.closeBrowser();
@@ -17,7 +19,8 @@ public class WebdriverTester {
         fireFox.startBrower();
         fireFox.openBrowser();
         fireFox.closeBrowser();
-*/
+*//*
+
 
         // easy is to create the array and access everythign from there
         // create objects
@@ -38,3 +41,4 @@ public class WebdriverTester {
         }
     }
 }
+*/
